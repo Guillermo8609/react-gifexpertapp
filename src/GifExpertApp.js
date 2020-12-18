@@ -17,7 +17,7 @@ export const GifExpertApp = () => {
     
     return (
         <>
-            <h2>GifExpertApp</h2>
+            <h2>Gif Expert App aprendia con Blenio</h2>
 
             <AddCategory setCategories={ setCategories } />
             <hr/>
